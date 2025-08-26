@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=48cae4&height=100&section=header&text=Nice%20To%20Meet%20You&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=48cae4&height=100&section=header&text=Nice%20To%20Meet%20You&fontSize=60&stroke=00FF00&strokeWidth=3" />
 
 <!--
 **bgallegosdev/bgallegosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
